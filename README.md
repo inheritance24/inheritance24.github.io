@@ -6,4 +6,4 @@ permalink: /
 
 Inheritance's Logbook
 
-Last checks
+Last checks.
